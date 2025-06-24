@@ -27,7 +27,7 @@ name:              "Purvi Garg"
 description:       "Undergrad MSU – Astrophysics & Data Science"
 
 url:               "https://gargpurvi33.github.io"
-baseurl:           ""
+baseurl:           "/gargpurv.github.io"
 repository:        "gargpurvi33/gargpurv.github.io"
 author:            purvi
 
