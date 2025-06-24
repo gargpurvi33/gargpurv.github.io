@@ -14,7 +14,7 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -30,7 +30,7 @@ url:               "https://gargpurvi33.github.io"
 baseurl:           "/gargpurv.github.io"
 repository:        "gargpurvi33/gargpurv.github.io"
 author:            purvi
-teaser:            "{{ site.baseurl }}/assets/images/NewInterstellarMedium_Art-edited16001.jpg"
+teaser:            "/gargpurv.github.io/assets/images/NewInterstellarMedium_Art-edited16001.jpg"
 
 
 # Site Settings
@@ -134,7 +134,7 @@ analytics:
 # Site Author
 author:
   name             : "Purvi Garg"
-  avatar           : "{{ site.baseurl }}/assets/images/IMG_0035.jpg"
+  avatar           : "/gargpurv.github.io/assets/images/IMG_0035.jpg"
   bio              : Senior Astrophysics and Data Science Student
   location         : Michigan State University 
   email            :
