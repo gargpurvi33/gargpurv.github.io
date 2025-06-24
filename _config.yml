@@ -21,7 +21,7 @@ title                    : "Stellar Scape"
 title_separator          : "-"
 subtitle                 : #Where dreams take flight in the galaxy's starry night!" 🌌🚀✨
 name                     : "Purvi Garg"
-description              : "An amazing website."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
