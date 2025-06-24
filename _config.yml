@@ -14,7 +14,7 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -26,11 +26,16 @@ subtitle:          "Where dreams take flight in the galaxy's starry night! 🌌�
 name:              "Purvi Garg"
 description:       "Undergrad MSU – Astrophysics & Data Science"
 
-url:               "https://gargpurvi33.github.io"
-baseurl:           "/gargpurv.github.io"
+#url:               "https://gargpurvi33.github.io"
+#baseurl:           "/gargpurv.github.io"
+url:        "https://gargpurvi33.github.io"
+baseurl:    "/gargpurv.github.io"
+
+# Teaser image (header)
+teaser:     "/assets/images/NewInterstellarMedium_Art-edited16001.jpg"
 repository:        "gargpurvi33/gargpurv.github.io"
 author:            purvi
-teaser:            "/gargpurv.github.io/assets/images/NewInterstellarMedium_Art-edited16001.jpg"
+#teaser:            "/gargpurv.github.io/assets/images/NewInterstellarMedium_Art-edited16001.jpg"
 
 
 # Site Settings
@@ -134,7 +139,7 @@ analytics:
 # Site Author
 author:
   name             : "Purvi Garg"
-  avatar           : "/gargpurv.github.io/assets/images/IMG_0035.jpg"
+  avatar           : "/assets/images/IMG_0035.jpg"
   bio              : Senior Astrophysics and Data Science Student
   location         : Michigan State University 
   email            :
