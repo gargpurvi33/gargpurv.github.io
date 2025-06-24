@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Stellar Scape"
 title_separator          : "-"
 subtitle                 : "Where dreams take flight in the galaxy's starry night!" 🌌🚀✨
 name                     : "Purvi Garg"
 description              : ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gargpurvi33.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gargpurvi33/gargpurv.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
