@@ -133,7 +133,7 @@ analytics:
 
 # Site Author
 author:
- name             : "Purvi Garg"
+  name             : "Purvi Garg"
   avatar           : /assets/images/IMG_0035.jpg
   bio              : Senior Astrophysics and Data science Student
   location         : Michigan State University 
